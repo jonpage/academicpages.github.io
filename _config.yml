@@ -83,7 +83,7 @@ author:
   bio              : "Software Engineer and <br />Data Scientist with a <br />PhD in Economics. <br />Currently Director of Analytics at UHERO"
   location         : "Honolulu, HI"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=3if3kq0AAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=3if3kq0AAAAJ&hl=en"
   email            : "jonpage.econ@gmail.com"
   uri              :
   bitbucket        :
