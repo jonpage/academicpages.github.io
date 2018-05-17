@@ -21,14 +21,24 @@ Work experience
 * 2016 - Present: Director of Analytics
   * [University of Hawaii Economic Research Organization (UHERO)](http://uhero.hawaii.edu)
   * Leading a talented, cross-functional team of data scientists, software engineers, and research assistants to build dashboards and visualizations that support decision-making.
-    * **Manager** 2+ years manageing a software engineering and data science team, active in recruiting, hiring, and training
-    * **Data Scientist** 5+ years of data science consulting, focused on building advanced statistical and predictive models, data mining, and time-series clustering analysis.
-    * **Software Engineer/Architect** 5+ years of full-stack web application development and architecture
+    *	Brought public-facing data portal from idea to production: data.uhero.hawaii.edu
+    *	Active development and leadership of open source projects:
+      *	UHERO REST API in GoLang (github.com/UHERO/rest-api)
+      *	UHERO Data Manager in Ruby-on-Rails (github.com/UHERO/udaman)
+      *	UHERO Data Portal in Angular (github.com/UHERO/data-portal)
+    *	Configured production and database servers
+    *	Technologies actively used: Ruby on Rails, GoLang, JavaScript, TypeScript, NodeJS, Angular, React, jQuery, D3.js, Redis, Webpack, Gulp, Babel, CSS, SASS, MySQL, MongoDB, NGINX, Monit,   RHEL 6, Windows 10, macOS, JetBrains IDEs, Atom, VIM, R, MS Excel, QGIS, Highcharts, Tableau, JIRA, Asana
+  *	Teach course on data analysis and visualization in R: 
+    *	Developed extensive course materials: jonpage.github.io/r-course
+  *	Write successful grant proposals and reports leading to funded contracts that support my team.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 2015 - 2016: Software Engineer
+  * CDK Global
+  *	Active development and support of microservices using Java Spring and RabbitMQ, front-end in AngularJS, and legacy platform in PHP.
+  *	Designed and managed the development of an anomaly detection dashboard for network events and application performance using the Numenta Platform for Intelligent Computing (NuPIC), GoLang, and AngularJS
+  *	Technologies actively used: PHP, Java Spring, RabbitMQ, GoLang, AngularJS, SASS, Grunt, Babel, Selenium, JetBrains IDEs, VIM, Bamboo, JIRA
+
   
 Skills
 ======
