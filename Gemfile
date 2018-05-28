@@ -24,3 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
 end
+
+group :development do
+  gem "jekyll-watch"
+end

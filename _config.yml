@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Jon Page"
   avatar           : "Jonathan_Page_Profile.png"
-  bio              : "Software Engineer and <br />Data Scientist with a <br />PhD in Economics. <br />Currently Director of Analytics at UHERO"
+  bio              : "Software Engineer and <br />Data Scientist with a <br />PhD in Economics. <br />Director of Analytics at UHERO"
   location         : "Honolulu, HI"
-  employer         : 
+  employer         :
   googlescholar    : # "https://scholar.google.com/citations?user=3if3kq0AAAAJ&hl=en"
   email            : "jonpage.econ@gmail.com"
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jonathan-page/"
+  linkedin         : "jonathan-page/"
   orcid            : # "https://orcid.org/0000-0001-5318-5182"
   pinterest        :
   soundcloud       :
