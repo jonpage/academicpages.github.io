@@ -18,8 +18,11 @@ Education
 
 Work experience
 ======
-* 2016 - Present: Director of Analytics
-  * [University of Hawaii Economic Research Organization (UHERO)](http://uhero.hawaii.edu)
+
+* 2018 - Present | Senior Software Engineer | Kroger Technology
+
+
+* 2016 - 2018 | Director of Analytics | [University of Hawaii Economic Research Organization (UHERO)](http://uhero.hawaii.edu)
   * Leading a talented, cross-functional team of data scientists, software engineers, and research assistants to build dashboards and visualizations that support decision-making.
     *	Brought public-facing data portal from idea to production: data.uhero.hawaii.edu
     *	Active development and leadership of open source projects:
@@ -33,8 +36,7 @@ Work experience
   *	Write successful grant proposals and reports leading to funded contracts that support my team.
 
 
-* 2015 - 2016: Software Engineer
-  * CDK Global
+* 2015 - 2016 | Software Engineer | CDK Global
   *	Active development and support of microservices using Java Spring and RabbitMQ, front-end in AngularJS, and legacy platform in PHP.
   *	Designed and managed the development of an anomaly detection dashboard for network events and application performance using the Numenta Platform for Intelligent Computing (NuPIC), GoLang, and AngularJS
   *	Technologies actively used: PHP, Java Spring, RabbitMQ, GoLang, AngularJS, SASS, Grunt, Babel, Selenium, JetBrains IDEs, VIM, Bamboo, JIRA
@@ -42,12 +44,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* R
+  * tidyverse
+  * raster
+  * tsclust
+* Python
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Spark
 
 Publications
 ======
@@ -69,5 +74,5 @@ Teaching
   
 Service and leadership
 ======
-* Member of the board of directors of the Hawaii Economic Association
+* Member of the board of directors of the Hawaii Economic Association (2016-2018)
 * Member of the American Statistical Association and the American Economic Association.

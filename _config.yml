@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jon Page / Director of Analytics"
+title                    : "Jon Page / Data Scientist"
 title_separator          : "-"
 name                     : &name "Jon Page"
-description              : &description "personal description"
+description              : &description "Data Scientist and Software Engineer with a PhD in Economics"
 url                      : https://jonpage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonpage/jonpage.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Jon Page"
   avatar           : "Jonathan_Page_Profile.png"
-  bio              : "Software Engineer and <br />Data Scientist with a <br />PhD in Economics. <br />Director of Analytics at UHERO"
-  location         : "Honolulu, HI"
+  bio              : "Data Scientist and<br />Software Engineer with a <br />PhD in Economics. <br />Software Engineer at Kroger Technology"
+  location         : "Portland, OR"
   employer         :
-  googlescholar    : # "https://scholar.google.com/citations?user=3if3kq0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=3if3kq0AAAAJ&hl=en"
   email            : "jonpage.econ@gmail.com"
   uri              :
   bitbucket        :

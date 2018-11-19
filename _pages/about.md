@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jon Page - Software and Social Data Science"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,21 +10,23 @@ redirect_from:
 
 # Software Projects
 
-[UHERO Open Source](https://github.com/UHERO)
+## University of Hawaii Economic Research Organization
 
-# Social Data Science
+* [UHERO Data Manager](https://github.com/UHERO/udaman)
+* [UHERO Golang REST API](https://api.uhero.hawaii.edu/) ([repo](https://github.com/UHERO/rest-api))
+* [UHERO Data Portal (Angular)](https://data.uhero.hawaii.edu/) ([repo](https://github.com/UHERO/data-portal))
+
+
+# Educational Materials
 
 ## Data Science Courses
 
-[Data Analysis and Visualization with R](https://jonpage.github.io/r-course)
+* [Data Analysis and Visualization with R](https://jonpage.github.io/r-course)
+* [Data Science Short Course](https://github.com/jonpage/data-science-boot-camp)
 
+# Blog
 
-[Data Science Boot Camp](https://github.com/jonpage/data-science-boot-camp)
-Short course focused on jumping into data analysis with R.
+[Economistry](http://economistry.com) - Social Data Science with a focus on Data Visualization
 
-## Blog
+# Research
 
-[Economistry](http://economistry.com)
-Blog with tutorials on a variety of tools.
-
-## Research
